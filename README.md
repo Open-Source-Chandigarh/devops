@@ -1,4 +1,11 @@
-# Website
+# Creating the DevOps Journey
+
+
+DevOps is a culture, not a role. The purpose of DevOps is to enable faster delivery of higher quality software. DevOps is not just limited to a set of tools or a paradigm–it is often designated as the intersection between culture, processes, and tools. Through continuous learning and improvement, engineers are able to improve quality and deliver products faster to market, thus increasing user satisfaction and ROI.
+
+
+
+# Setting up Locally
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
